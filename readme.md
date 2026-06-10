@@ -1,4 +1,3 @@
-```markdown
 # 🏪 Aplikasi Manajemen Mini Market Jayusman
 
 ![Laravel Version](https://img.shields.io/badge/Laravel-11.x-red?style=for-the-badge&logo=laravel)
