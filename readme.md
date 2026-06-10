@@ -28,7 +28,7 @@
 
 ## 🏪 Tentang Aplikasi
 
-Aplikasi Manajemen Mini Market Jayusman adalah sistem informasi manajemen terintegrasi yang dirancang khusus untuk membantu **Bapak Jayusman** dalam mengelola **5 cabang mini market** yang tersebar di berbagai kota (Jakarta, Bandung, Surabaya, Semarang, Yogyakarta).
+Aplikasi Manajemen Mini Market Jayusman adalah sistem informasi manajemen terintegrasi yang dirancang khusus untuk membantu **Bapak Jayusman** dalam mengelola **5 cabang mini market** yang tersebar di berbagai kota.
 
 ### Visi Aplikasi
 
@@ -179,8 +179,8 @@ Dikembangkan sebuah **aplikasi berbasis web** menggunakan **Laravel 11** dengan 
 
 | Teknologi | Versi | Fungsi |
 |-----------|-------|--------|
-| Laravel | 11.x | Framework utama aplikasi |
-| PHP | 8.2+ | Bahasa pemrograman |
+| Laravel | 11.x / 12.x / 13.x | Framework utama aplikasi |
+| PHP | 8.4+ | Bahasa pemrograman |
 | MySQL | 8.0+ | Database |
 | Spatie Laravel Permission | 6.x | Manajemen role & permission |
 
@@ -210,12 +210,14 @@ Dikembangkan sebuah **aplikasi berbasis web** menggunakan **Laravel 11** dengan 
 
 | Komponen | Minimal | Rekomendasi |
 |----------|---------|-------------|
-| **PHP** | 8.2 | 8.3+ |
-| **Composer** | 2.x | 2.5+ |
+| **PHP** | 8.4 | 8.4+ |
+| **Composer** | 2.x | 2.7+ |
 | **MySQL** | 8.0 | 8.0+ |
-| **Node.js** | 18.x | 20.x |
-| **NPM** | 9.x | 10.x |
+| **Node.js** | 20.x | 22.x |
+| **NPM** | 10.x | 11.x |
 | **Web Server** | Apache/Nginx | Apache/Nginx |
+
+> **Catatan:** Projek ini menggunakan PHP 8.4 ke atas karena beberapa library pendukung dan framework Laravel versi terbaru (11.x/12.x/13.x) memerlukan PHP 8.4+ untuk kompatibilitas optimal.
 
 ### Ekstensi PHP yang Diperlukan
 
