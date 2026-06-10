@@ -613,24 +613,25 @@ Buka browser dan akses: **http://localhost:8000**
 
 ## 📄 Lisensi
 
-Aplikasi ini dikembangkan untuk **PT. Jayusman Group** sebagai solusi internal perusahaan.
+Projek ini dikembangkan sebagai **Tugas Besar Mata Kuliah Pemrograman Web 2** oleh **Kelompok 4**.
 
-| Hak | Status |
-|-----|--------|
-| Digunakan untuk operasional internal PT. Jayusman Group | ✅ Diizinkan |
-| Didistribusikan secara publik | ❌ Tidak diizinkan |
-| Dijual atau dikomersialkan | ❌ Tidak diizinkan |
-| Dimodifikasi dan diklaim sebagai milik pihak lain | ❌ Tidak diizinkan |
+| Hak | Status | Keterangan |
+|-----|--------|-------------|
+| Digunakan untuk keperluan akademik dan penilaian tugas | ✅ Diizinkan | - |
+| Didistribusikan secara publik untuk referensi pembelajaran | ✅ Diizinkan | Wajib mencantumkan sumber asli |
+| Dijual atau dikomersialkan | ✅ Diizinkan | Dengan syarat dilakukan perubahan signifikan (bukan sekadar mengubah tampilan/logo) |
+| Dimodifikasi dan diklaim sebagai milik pihak lain | ✅ Diizinkan | Asalkan tidak menggunakan template/kode dasar dari projek ini secara utuh |
+| Menggunakan kode sumber asli tanpa perubahan | ❌ Tidak diizinkan | Untuk tujuan komersial atau klaim kepemilikan |
 
 ---
 
-## 👨‍💻 Kontak Developer
+## 👨‍💻 Tim Pengembang - Kelompok 4
 
-| Kontak | Informasi |
-|--------|-----------|
-| 📧 Email | developer@jayusman.com |
-| 🌐 Website | https://minimarket.jayusman.com |
-| 📞 Telepon | (021) 1234-5678 |
+| No | Nama | NPM |
+|----|------|-----|
+| 1 | M. Hadi Gunawan | 5520123 |
+| 2 | Muhammad Ikhsan | 5520123 |
+| 3 | Alwi Akbar Muztaba | 5520123 |
 
 ---
 
@@ -638,19 +639,29 @@ Aplikasi ini dikembangkan untuk **PT. Jayusman Group** sebagai solusi internal p
 
 Terima kasih kepada:
 
-- **Bapak Jayusman** - Atas kepercayaan dan dukungannya
-- **Tim Manajemen** - Atas masukan dan feedback yang berharga
-- **Seluruh Karyawan** - Atas partisipasi dalam uji coba aplikasi
+- **Dosen Pengampu Mata Kuliah Pemrograman Web 2** - Atas bimbingan dan arahan selama perkuliahan
+- **Rekan-rekan Kelompok 4** - Atas kerjasama dan kontribusinya dalam menyelesaikan projek ini
+
+---
+
+## 📚 Mata Kuliah
+
+| Keterangan | Informasi |
+|------------|-----------|
+| **Mata Kuliah** | Pemrograman Web 2 |
+| **Kelompok** | 4 |
+| **Semester** | 6 |
+| **Tahun Akademik** | 2025/2026 |
+| **Dosen Pengampu** | Finsa Nurpandi, S.T., M.T. |
 
 ---
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200" alt="Laravel Logo">
     <br>
-    <sub>Built with ❤️ for Bapak Jayusman</sub>
+    <sub>Built with ❤️ by Kelompok 4</sub>
     <br>
     <sub>Sistem Manajemen Mini Market Terintegrasi | Version 1.0.0</sub>
     <br>
-    <sub>© 2024 PT. Jayusman Group - All Rights Reserved</sub>
+    <sub>© 2024 Tugas Besar Pemrograman Web 2 - Kelompok 4</sub>
 </div>
-```
