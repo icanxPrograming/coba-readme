@@ -28,7 +28,7 @@
 
 ## 🏪 Tentang Aplikasi
 
-Aplikasi Manajemen Mini Market Jayusman adalah sistem informasi manajemen terintegrasi yang dirancang khusus untuk membantu **Bapak Jayusman** dalam mengelola **berbagai cabang mini market** yang tersebar di berbagai kota.
+Aplikasi Manajemen Mini Market Jayusman adalah sistem informasi manajemen terintegrasi yang dirancang khusus untuk membantu **Bapak Jayusman** dalam mengelola **5 cabang mini market** yang tersebar di berbagai kota.
 
 ### Visi Aplikasi
 
