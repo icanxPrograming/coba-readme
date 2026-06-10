@@ -665,5 +665,5 @@ Terima kasih kepada:
     <br>
     <sub>Sistem Manajemen Mini Market Terintegrasi | Version 1.0.0</sub>
     <br>
-    <sub>© 2024 Tugas Besar Pemrograman Web 2 - Kelompok 4</sub>
+    <sub>© 2026 Tugas Besar Pemrograman Web 2 - Kelompok 4</sub>
 </div>
